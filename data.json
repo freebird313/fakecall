@@ -83,6 +83,7 @@
           "voice" : "https://github.com/freebird313/fakecall/blob/main/v1.mp3",
           "video" : "https://github.com/freebird313/fakecall/blob/main/v1.mp4",
           "live" : "https://github.com/freebird313/fakecall/blob/main/v1.mp4"
+        },
         {
           "name" : "Vi",
           "theme" : "Arcane",
